@@ -220,5 +220,33 @@ export const BLOG_POSTS = [
     excerpt: 'How we maintain the highest quality standards while preserving our natural ecosystems.',
     date: 'April 02, 2026',
     image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800'
+  },
+  {
+    id: 'b3',
+    title: 'Navigating the European Semiconductor Market in 2026',
+    excerpt: 'A comprehensive guide to sourcing high-tech silicon and navigating supply chain challenges.',
+    date: 'April 05, 2026',
+    image: 'images/blog_semiconductors.png'
+  },
+  {
+    id: 'b4',
+    title: 'Why SEO Strategy is Essential for B2B Industrial Growth',
+    excerpt: 'How digital marketing and analytics are reshaping B2B client acquisition for heavy infrastructure.',
+    date: 'April 06, 2026',
+    image: 'images/blog_seo_b2b.png'
+  },
+  {
+    id: 'b5',
+    title: 'Innovations in Hydraulic Actuator Technology',
+    excerpt: 'Exploring the latest advancements in heavy-duty industrial automation and precision control.',
+    date: 'April 07, 2026',
+    image: 'images/blog_hydraulics.png'
+  },
+  {
+    id: 'b6',
+    title: 'The Rise of Nordic Organic Products in Global Markets',
+    excerpt: 'Understanding the global demand for pure, artisanal Nordic provisions and sustainable sourcing.',
+    date: 'April 07, 2026',
+    image: 'images/blog_nordic_food.png'
   }
 ];

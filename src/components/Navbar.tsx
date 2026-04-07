@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { name: 'Food', path: '/food' },
   { name: 'Digital', path: '/digital' },
   { name: 'About', path: '/about' },
+  { name: 'Blog', path: '/blog' },
   { name: 'Contact', path: '/contact' },
 ];
 
