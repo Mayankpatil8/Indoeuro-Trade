@@ -212,41 +212,47 @@ export const BLOG_POSTS = [
     title: 'The Future of CNC Machining in Finland',
     excerpt: 'Exploring how automation is reshaping the precision engineering landscape in the Nordics.',
     date: 'March 24, 2026',
-    image: 'https://images.unsplash.com/photo-1565034946487-077786996e27?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1565034946487-077786996e27?auto=format&fit=crop&q=80&w=800',
+    content: `Precision engineering has always been at the heart of Finnish industrial manufacturing, but 2026 marks a turning point. Driven by advances in AI-assisted automation, CNC machining is faster, more precise, and more cost-effective than ever before.\n\nNew 5-axis machines equipped with predictive maintenance sensors are now capable of reducing downtime by over 40%, ensuring that part production remains on schedule without compromising tight tolerances. At EuroCore, our Finnish procurement hubs are constantly vetting the latest facilities to source parts that meet rigorous aerospace and medical standards.`
   },
   {
     id: 'b2',
     title: 'Sustainable Food Sourcing: From Forest to Table',
     excerpt: 'How we maintain the highest quality standards while preserving our natural ecosystems.',
     date: 'April 02, 2026',
-    image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800',
+    content: `The demand for organic, sustainably sourced food has never been higher. Consumers want to know where their food comes from, and they demand a supply chain that respects the environment. In the heart of Lapland, traditional foraging and ethical farming are setting global standards.\n\nFrom hand-picked wild cloudberries to sustainably caught Atlantic salmon, the preservation of biodiversity is vital. We work directly with certified farmers across the Nordics, running rigorous quality checks to deliver provisions that not only taste extraordinary but also support environmental harmony.`
   },
   {
     id: 'b3',
     title: 'Navigating the European Semiconductor Market in 2026',
     excerpt: 'A comprehensive guide to sourcing high-tech silicon and navigating supply chain challenges.',
     date: 'April 05, 2026',
-    image: 'images/blog_semiconductors.png'
+    image: 'images/blog_semiconductors.png',
+    content: `The global semiconductor shortage taught the industry a severe lesson in supply chain resilience. Today, Europe has bolstered its domestic production capabilities, driven by initiatives to create self-sustaining silicon hubs across the continent.\n\nProcurement managers must now understand the shifting dynamics of regional silicon foundries versus traditional overseas options. Through strategic alliances with emerging European chipmakers, we offer robust continuity solutions for companies relying on microcontrollers, sensor arrays, and automotive-grade chips.`
   },
   {
     id: 'b4',
     title: 'Why SEO Strategy is Essential for B2B Industrial Growth',
     excerpt: 'How digital marketing and analytics are reshaping B2B client acquisition for heavy infrastructure.',
     date: 'April 06, 2026',
-    image: 'images/blog_seo_b2b.png'
+    image: 'images/blog_seo_b2b.png',
+    content: `Historically, B2B industrial companies relied exclusively on trade shows, cold calls, and legacy networks. However, modern procurement teams start their sourcing journey online. If your manufacturing firm cannot be easily found via search engines, you are invisible to a significant share of the market.\n\nData-driven SEO involves technical website optimization, authoritative industrial content, and targeted backlink strategies. We help legacy B2B manufacturers transition their lead generation pipelines into the 21st century by securing top rankings for high-intent queries like "precision CNC machining Europe" or "bulk hydraulic actuators."`
   },
   {
     id: 'b5',
     title: 'Innovations in Hydraulic Actuator Technology',
     excerpt: 'Exploring the latest advancements in heavy-duty industrial automation and precision control.',
     date: 'April 07, 2026',
-    image: 'images/blog_hydraulics.png'
+    image: 'images/blog_hydraulics.png',
+    content: `Industrial movement relies heavily on the power and precision of hydraulic systems. In harsh environments like mining operations or offshore rigs, actuators must withstand immense pressure while providing delicate control. Recently, electro-hydraulic actuators (EHAs) have emerged as the gold standard.\n\nEHAs eliminate the need for centralized hydraulic systems, replacing extensive piping with self-contained, powerful compact units. This hybrid approach significantly reduces maintenance costs and potential fluid leakages. Our networks are actively supplying these next-gen actuators to leading manufacturing plants across Europe.`
   },
   {
     id: 'b6',
     title: 'The Rise of Nordic Organic Products in Global Markets',
     excerpt: 'Understanding the global demand for pure, artisanal Nordic provisions and sustainable sourcing.',
     date: 'April 07, 2026',
-    image: 'images/blog_nordic_food.png'
+    image: 'images/blog_nordic_food.png',
+    content: `Around the world, culinary professionals and health-conscious consumers are seeking out Nordic ingredients. Characterized by short, intense growing seasons under the midnight sun, items like wild berries, cold-pressed seed oils, and rye possess elevated nutritional profiles and concentrated flavors.\n\nThis shift in consumer behavior represents a massive opportunity for importers. We streamline the logistics of transporting artisanal goods from remote Scandinavian producers to high-end retailers globally, maintaining strict temperature controls to ensure absolute freshness upon delivery.`
   }
 ];
