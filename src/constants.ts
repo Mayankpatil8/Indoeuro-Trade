@@ -119,7 +119,7 @@ export const SOURCING_EXAMPLES: SourcingCategory[] = [
     name: 'Heavy-Duty Conveyor Rollers',
     description: 'Durable, high-load capacity rollers for industrial material handling systems.',
     category: 'mechanical',
-    image: '/src/assets/conveyor_rollers.png',
+    image: 'images/conveyor_rollers.png',
     tags: ['Conveyor', 'Industrial']
   },
   {
@@ -127,7 +127,7 @@ export const SOURCING_EXAMPLES: SourcingCategory[] = [
     name: 'Precision Optical Mounts',
     description: 'Stable and adjustable mounting solutions for high-precision optical systems.',
     category: 'mechanical',
-    image: '/src/assets/optical_mounts.png',
+    image: 'images/optical_mounts.png',
     tags: ['Optical', 'Precision']
   },
   {
