@@ -152,7 +152,7 @@ export const SOURCING_EXAMPLES: SourcingCategory[] = [
     name: 'Wild Lapland Provisions',
     description: 'Hand-picked cloudberries and forest berries from the pristine Lapland wilderness.',
     category: 'food',
-    image: '/images/foode.jpg',
+    image: 'https://images.unsplash.com/photo-1589135340847-57a6b32368a7?auto=format&fit=crop&q=80&w=800',
     tags: ['Wild', 'Premium']
   },
   {
