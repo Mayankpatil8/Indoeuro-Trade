@@ -201,7 +201,7 @@ export const SOURCING_EXAMPLES: SourcingCategory[] = [
     name: 'UI/UX Design Systems',
     description: 'Modern, accessible, and scalable design systems for digital products.',
     category: 'digital',
-    image: 'https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?auto=format&fit=crop&q=80&w=800',
+    image: 'images/uiux.jpg',
     tags: ['Design', 'UI/UX']
   }
 ];
